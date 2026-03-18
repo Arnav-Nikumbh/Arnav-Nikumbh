@@ -1,8 +1,8 @@
 # Hi 👋, I'm Arnav Nikumbh
 
 🎓 B.Tech CSBS @ MIT World Peace University (CGPA: 8.77)  
-💡 Passionate about Machine Learning, Systems, and Scalable Software  
-🚀 Interested in High-Performance Computing, AI, and Backend Development  
+💡 Passionate about Machine Learning, Systems, Scalable Software, and Cloud Computing (AWS)  
+🚀 Interested in Data-Driven ML, AI, and Backend Development  
 
 ---
 
@@ -27,8 +27,11 @@
 **🤖 Machine Learning & Data**  
 `TensorFlow` `PyTorch` `NLP` `Feature Engineering` `Data Preprocessing` `Model Evaluation`
 
+**☁️ Cloud & DevOps**  
+`AWS (Basics)` `Docker` `Containerization` `kubernetes`
+
 **⚙️ Tools & Frameworks**  
-`Flask` `Streamlit` `Git` `Docker`
+`Flask` `Streamlit` `Git`
 
 **🗄️ Databases**  
 `MySQL` `MongoDB`
